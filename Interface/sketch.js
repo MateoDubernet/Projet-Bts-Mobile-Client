@@ -101,7 +101,7 @@ function setup() {
 function draw() {
   background(0);
   canvas2.background(125);
-  text("on = " + on, 73,365);
+  text("on = " + !on, 73,365);
   for (let i = 0;i<nMoteurs;i++){
 	text("vitesse mot " + i + " : "+ sliders[i].value(),460+ 200*(i%2),140+ 30*int(i/2));
   }
