@@ -1,7 +1,7 @@
 ﻿# Projet-Bts-Mobile-Client
 
 ## Contexte
-Ce dépôt contient la partie cliente d’un projet réaliser durant mon BTS.
+Ce dépôt contient la partie cliente d’un projet réaliser durant mon BTS.\
 Le client est développer en Javascript et utilise la librairie p5.js
 
 Ce projet client est utilisé conjointement avec le projet serveur disponible ici :
@@ -25,6 +25,7 @@ Il y a 2 possibilités :
 
 Pour plus d'info sur le fonctionnement voir mon rapport de projet :
 https://docs.google.com/document/d/1gpIJdEmqZfz75_7iwquWt0siOjI4Kyx5BC8WeD4jwOQ/edit?tab=t.0
+
 
 
 
