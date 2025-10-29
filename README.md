@@ -16,8 +16,16 @@ https://docs.google.com/document/d/1gpIJdEmqZfz75_7iwquWt0siOjI4Kyx5BC8WeD4jwOQ/
 
 ---
 
-## Démarer l'application
-1. Lancer le serveur (https://github.com/MateoDubernet/Projet-Bts-Mobile-Server)
+## Installation & Lancement
+
+### 1. Cloner le projet
+```bash
+    git clone <url-du-repo>
+    cd <nom-du-dossier>
+```
+
+### Lancer l’application
+1. Lancer le serveur : https://github.com/MateoDubernet/Projet-Bts-Mobile-Server
 2. Ouvrir le fichier Interface/index.html
 
 ---
@@ -29,6 +37,7 @@ Il y a 2 possibilités :
 
 Pour plus d'info sur le fonctionnement voir mon rapport de projet :
 https://docs.google.com/document/d/1gpIJdEmqZfz75_7iwquWt0siOjI4Kyx5BC8WeD4jwOQ/edit?tab=t.0
+
 
 
 
